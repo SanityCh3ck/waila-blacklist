@@ -1,0 +1,16 @@
+[
+{
+  "modid": "waila-blacklist",
+  "name": "WAILA Blacklist",
+  "description": "Simple mod for disabling WAILA for specific blocks/entities/dimensions",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pennywis3"],
+  "credits": "ProfMobius for 'WAILA', Darkhax for 'Waila Events'",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
